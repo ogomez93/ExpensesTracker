@@ -1,0 +1,12 @@
+{
+  "authenticated": false,
+  "email": "",
+  "error": {
+    "code": "",
+    "message": ""
+  },
+  "loggingIn": false,
+  "loggingOut": false,
+  "password": "",
+  "token": ""
+}
